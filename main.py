@@ -7,4 +7,6 @@ result = numplay(firstNum,secondNum)
 
 #Chamika -> insted of addition change it to multiplication
 
-print(f'The addition of {firstNum} and {secondNum} = {result}')
+print(f'The multiplication of {firstNum} and {secondNum} = {result}')
+
+#Done
