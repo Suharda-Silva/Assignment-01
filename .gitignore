@@ -1,0 +1,6 @@
+#File Extensions
+*.pdf
+*.pyc
+
+#Folders
+__pycache__
